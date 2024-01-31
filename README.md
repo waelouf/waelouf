@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=waelouf&show_icons=true" alt="waelouf" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=waelouf&show_icons=true&theme=cobalt" alt="waelouf" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=waelouf" alt="waelouf" /></p>
 
