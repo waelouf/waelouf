@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=waelouf&show_icons=true&theme=cobalt" alt="waelouf" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=waelouf" alt="waelouf" /></p>
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=waelouf&theme=tokyonight&mode=weekly&card_width=498)](https://git.io/streak-stats)</p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelouf&layout=pie" alt="waelouf" /></p>
